@@ -27,7 +27,6 @@
   ## 🚀 Projects
   - **Upbeat**: https://github.com/9oormthonUNIV-CBNU/2025_9oormthonUNIV_6_BE
   - **핀로그**: https://github.com/9oormthon-univ/2025_SEASONTON_TEAM_41_BE
-  - **Force Director**: https://github.com/GAME-RHDAHWJS/Vector
 
 </div>
 

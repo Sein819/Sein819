@@ -11,8 +11,10 @@
 <div>
   
   ## 🛠 Tech Stack
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/Java-EE3124?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   
@@ -51,6 +53,9 @@
   ## 🔥 Activity
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sein819&theme=tokyonight"/>
   <br/><br/>
+
+  <!--
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sein819&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true"/>
+  -->
   
 </div>

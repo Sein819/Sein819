@@ -30,21 +30,22 @@
 
 </div>
 
+<!--
 <br/>
 
 <div>
 
   ## 📊 Github Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=Sein819&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sein819&show_icons=true&theme=tokyonight"/>
     
-  <!--
+
   <br/><br/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sein819&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1"/>
-  -->
 
 </div>
-
+-->
+  
 <br/>
 
 <div>

@@ -28,6 +28,7 @@
   - **Upbeat**: https://github.com/Sein819/2025_9oormthonUNIV_6_BE
   - **핀로그**: https://github.com/Sein819/2025_SEASONTON_TEAM_41_BE
   - **Lost Color**: https://github.com/Sein819/RC_Unit_Color
+  - **Force Director**: https://github.com/Sein819/Vector
 
 </div>
 

@@ -51,20 +51,6 @@
 
 <br/>
 
-<!--
-<div>
-  
-  ## 📊 Github Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=Sein819&show_icons=true&theme=tokyonight"/>
-
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sein819&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1"/>
-</div>
-
-<br/>
--->
-
 <div>
 
   ## 🔥 Activity
@@ -74,5 +60,7 @@
   <!--
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sein819&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true"/>
   -->
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sein819&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1"/>
   
 </div>

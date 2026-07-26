@@ -14,6 +14,7 @@
   <div>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logoColor=white"/>
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
@@ -30,7 +31,6 @@
   ---
   
   <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
   </div>
@@ -60,7 +60,8 @@
   <!--
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sein819&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true"/>
   -->
-  
+
+  <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sein819&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1"/>
-  
+  -->
 </div>

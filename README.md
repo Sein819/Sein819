@@ -44,12 +44,12 @@
 <div>
 
   ## 🚀 Projects
-  - **우왕돈이다**: https://github.com/Sein819/WOOWANGTHON_TEAM_36_BE | https://github.com/Sein819/WOOWANGTHON_TEAM_36_FE
-  - **Safe Link**: https://github.com/Sein819/SafeLink-Backend | https://github.com/Sein819/SafeLink-AI
-  - **Force Director**: https://github.com/Sein819/Vector
-  - **Lost Color**: https://github.com/Sein819/RC_Unit_Color
-  - **핀로그**: https://github.com/Sein819/2025_SEASONTON_TEAM_41_BE
-  - **Upbeat**: https://github.com/Sein819/2025_9oormthonUNIV_6_BE
+  - **우왕돈이다**: [BE](https://github.com/Sein819/WOOWANGTHON_TEAM_36_BE) | [FE](https://github.com/Sein819/WOOWANGTHON_TEAM_36_FE)
+  - **Safe Link**: [BE](https://github.com/Sein819/SafeLink-Backend) | [AI](https://github.com/Sein819/SafeLink-AI)
+  - **Force Director**: [Unity](https://github.com/Sein819/Vector)
+  - **Lost Color**: [Unity](https://github.com/Sein819/RC_Unit_Color)
+  - **핀로그**: [BE](https://github.com/Sein819/2025_SEASONTON_TEAM_41_BE)
+  - **Upbeat**: [BE](https://github.com/Sein819/2025_9oormthonUNIV_6_BE)
   
 
 </div>

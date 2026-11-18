@@ -44,6 +44,7 @@
 <div>
 
   ## 🚀 Projects
+  - **우왕돈이다**: https://github.com/Sein819/WOOWANGTHON_TEAM_36_BE | https://github.com/Sein819/WOOWANGTHON_TEAM_36_FE
   - **Safe Link**: https://github.com/Sein819/SafeLink-Backend | https://github.com/Sein819/SafeLink-AI
   - **Force Director**: https://github.com/Sein819/Vector
   - **Lost Color**: https://github.com/Sein819/RC_Unit_Color
